@@ -1,5 +1,7 @@
 # @allmaps/transform
 
+This repository is archived. Please see https://github.com/allmaps/allmaps.
+
 JavaScript port of [gdaltransform](https://gdal.org/programs/gdaltransform.html).
 
 See https://observablehq.com/@bertspaan/gdaltransform?collection=@bertspaan/iiif-maps.
